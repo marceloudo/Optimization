@@ -4,6 +4,7 @@ Domain Knowledge and Exercises in Python thinking about LP.
 There are notebooks here in English and Portuguese. <br>
 <a href="https://github.com/marceloudo/Optimization/blob/main/Minimiza%C3%A7%C3%A3o%20Despesa%20Log%C3%ADstica.ipynb">
 1 - Minimização das Despesas de Logística de Distribuição (Portuguese)</a> =>
+<br>
 <a href="https://github.com/marceloudo/Optimization/blob/main/OPTIMIZATION.ipynb">
 2 - OPTIMIZATION</a> =>
 <br>
