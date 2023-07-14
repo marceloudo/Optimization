@@ -10,6 +10,9 @@ There are notebooks here in English and Portuguese. <br>
 <br>
 <a href="https://github.com/marceloudo/Optimization/blob/main/OTIMIZA%C3%87%C3%83O%20CONFEC%C3%87%C3%83O.ipynb">
 3 - Produção de Confecções</a> =>
+<br>
+<a href="https://github.com/marceloudo/Optimization/blob/main/Otimizar%20Rentabilidade%20de%20Hectar.ipynb">
+4 - Otimização de Hectares</a> =>
 
 I took a book bought in the last decade and decided to implement it in Python.<br>
 <img src="https://drive.google.com/uc?export=view&amp;id=1kZcTvqYlk5ULy-guyQuouh9V-6J9rbrV" align='center' heigh=140 width=280/>
